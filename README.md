@@ -1,1 +1,1 @@
-# explaining-confidence-counterfactuals
+This repo contains the supplementary materials of the paper "Explaining Model Confidence Using Counterfactuals" (AAAI 2023) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26399)
